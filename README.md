@@ -4,3 +4,5 @@ The project is related to psychoacoustic signal encoding. Particularly, in the f
 
 This project created as part of the course "Digital Signal Processing" at School of Electrical and Computer Engineering, NTUA and the aim of this work is NOT to present it as my personal research but as my approach to the problems given. Please read the project's prompt (provided in Greek) for detailed descriptions of the tasks.
 
+Special thanks to my fellow student, Georgios Tzamouranis (https://github.com/giorgostzamouranis) , with whom I collaborated on the implementation of this project.
+
